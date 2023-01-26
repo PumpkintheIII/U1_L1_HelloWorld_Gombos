@@ -1,4 +1,8 @@
-// Our first program: Hello World.c
+/*
+This is our first program, Hello World
+Created on January 26, 2023
+Max Gombos
+*/
 
 #include <stdio.h> //includes the Standard Input and Output directory
 
