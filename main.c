@@ -1,8 +1,9 @@
 // Our first program: Hello World.c
 
-#include <stdio.h> //includes the Standard Input and Output files
+#include <stdio.h> //includes the Standard Input and Output directory
 
-int main(void) {
-  printf("Hello World\n");
-  return 0;
+int main(void) //main function using integers
+{
+  printf("Hello World\n"); //print function, shows what is in the parenthesis onto the output screen
+  return 0; //the program is done
 }
